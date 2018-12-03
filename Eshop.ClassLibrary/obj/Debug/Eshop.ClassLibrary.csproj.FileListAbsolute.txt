@@ -1,0 +1,123 @@
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Eshop.ClassLibrary.dll.config
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Eshop.ClassLibrary.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Eshop.ClassLibrary.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\CommonServiceLocator.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Helpers.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Mvc.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Razor.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Abstractions.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Configuration.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Container.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Interception.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Mvc5.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\CommonServiceLocator.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Helpers.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Mvc.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Razor.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Configuration.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Container.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Interception.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.csproj.CopyComplete
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Eshop.ClassLibrary.dll.config
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Eshop.ClassLibrary.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Eshop.ClassLibrary.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\CommonServiceLocator.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Helpers.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Mvc.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Razor.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Abstractions.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Configuration.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Container.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Interception.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Mvc5.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\CommonServiceLocator.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Helpers.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Mvc.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.Razor.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Configuration.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Container.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Interception.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.csproj.CopyComplete
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Eshop.ClassLibrary.dll.config
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Eshop.ClassLibrary.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Eshop.ClassLibrary.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\CommonServiceLocator.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.Razor.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.Abstractions.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.Configuration.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.Container.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.Interception.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.Mvc5.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\CommonServiceLocator.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.Razor.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.Configuration.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.Container.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.Interception.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.csproj.CopyComplete
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.ClassLibrary\obj\Debug\Eshop.ClassLibrary.pdb

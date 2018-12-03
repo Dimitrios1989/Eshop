@@ -1,0 +1,695 @@
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\ApplicationInsights.config
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Eshop.Administration.dll.config
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Eshop.Administration.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Eshop.Administration.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\csc.exe
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\csc.exe.config
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\csc.rsp
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\csi.exe
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\csi.exe.config
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\csi.rsp
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.AppContext.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Console.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.IO.Compression.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Security.Claims.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Threading.Thread.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.ValueTuple.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\vbc.exe
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\vbc.exe.config
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\vbc.rsp
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\VBCSCompiler.exe
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Antlr3.Runtime.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\CommonServiceLocator.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\EntityFramework.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\EntityFramework.SqlServer.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AI.Web.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.ApplicationInsights.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Newtonsoft.Json.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Owin.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.Helpers.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.Mvc.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.Optimization.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.Razor.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.WebPages.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.WebPages.Razor.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.Abstractions.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.Configuration.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.Container.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.Interception.Configuration.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.Interception.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.Mvc5.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.RegistrationByConvention.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.ServiceLocation.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\WebGrease.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\CommonServiceLocator.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\EntityFramework.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\EntityFramework.SqlServer.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.Helpers.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.Mvc.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.Optimization.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.Razor.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.WebPages.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\System.Web.WebPages.Razor.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.Configuration.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.Container.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.Interception.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.Interception.Configuration.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.RegistrationByConvention.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Unity.ServiceLocation.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Antlr3.Runtime.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Newtonsoft.Json.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.ApplicationInsights.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Microsoft.AI.Web.xml
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.csprojResolveAssemblyReference.cache
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.csproj.CoreCompileInputs.cache
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.csproj.CopyComplete
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Eshop.ClassLibrary.dll
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Eshop.ClassLibrary.pdb
+C:\Users\iyiannak.FORTUNE\source\repos\eshop2\Eshop\Eshop.Administration\bin\Eshop.ClassLibrary.dll.config
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\ApplicationInsights.config
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Eshop.Administration.dll.config
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Eshop.Administration.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Eshop.Administration.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\csc.exe
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\csc.exe.config
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\csc.rsp
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\csi.exe
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\csi.exe.config
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\csi.rsp
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.AppContext.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Console.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.IO.Compression.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Claims.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Threading.Thread.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.ValueTuple.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\vbc.exe
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\vbc.exe.config
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\vbc.rsp
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\VBCSCompiler.exe
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Antlr3.Runtime.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\CommonServiceLocator.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\EntityFramework.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\EntityFramework.SqlServer.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Eshop.ClassLibrary.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AI.Web.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.ApplicationInsights.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Newtonsoft.Json.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Owin.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.Helpers.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.Mvc.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.Optimization.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.Razor.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.WebPages.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.WebPages.Razor.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.Abstractions.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.Configuration.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.Container.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.Interception.Configuration.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.Interception.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.Mvc5.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.RegistrationByConvention.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.ServiceLocation.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\WebGrease.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Eshop.ClassLibrary.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Eshop.ClassLibrary.dll.config
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\CommonServiceLocator.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\EntityFramework.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\EntityFramework.SqlServer.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.Helpers.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.Mvc.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.Optimization.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.Razor.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.WebPages.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\System.Web.WebPages.Razor.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.Configuration.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.Container.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.Interception.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.Interception.Configuration.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.RegistrationByConvention.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Unity.ServiceLocation.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Antlr3.Runtime.pdb
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Newtonsoft.Json.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.ApplicationInsights.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\bin\Microsoft.AI.Web.xml
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.csprojResolveAssemblyReference.cache
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.csproj.CoreCompileInputs.cache
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.csproj.CopyComplete
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.dll
+C:\Users\iyiannak.FORTUNE\Documents\CodingSchool2018Documentation\eshop-backups\eshop2 - Copy (5)\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\ApplicationInsights.config
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Eshop.Administration.dll.config
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Eshop.Administration.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Eshop.Administration.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\csc.exe
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\csc.exe.config
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\csc.rsp
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\csi.exe
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\csi.exe.config
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\csi.rsp
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.AppContext.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Console.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Claims.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\vbc.exe
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\vbc.exe.config
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\vbc.rsp
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Antlr3.Runtime.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\CommonServiceLocator.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\EntityFramework.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\EntityFramework.SqlServer.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Eshop.ClassLibrary.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AI.Web.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Owin.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.Helpers.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.Mvc.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.Optimization.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.Razor.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.WebPages.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.Abstractions.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.Configuration.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.Container.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.Interception.Configuration.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.Interception.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.Mvc5.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.RegistrationByConvention.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.ServiceLocation.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\WebGrease.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Eshop.ClassLibrary.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Eshop.ClassLibrary.dll.config
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\CommonServiceLocator.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\EntityFramework.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\EntityFramework.SqlServer.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.Helpers.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.Mvc.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.Optimization.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.Razor.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.WebPages.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.Configuration.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.Container.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.Interception.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.Interception.Configuration.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Unity.ServiceLocation.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Antlr3.Runtime.pdb
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Newtonsoft.Json.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\bin\Microsoft.AI.Web.xml
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.csproj.CopyComplete
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.dll
+C:\Users\Chris\Documents\eshop2 - Copy (4)\Eshop\Eshop.Administration\obj\Debug\Eshop.Administration.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\ApplicationInsights.config
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Eshop.Administration.dll.config
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Eshop.Administration.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Eshop.Administration.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\csc.exe
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\csc.exe.config
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\csc.rsp
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\csi.exe
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\csi.exe.config
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\csi.rsp
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.AppContext.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Console.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Claims.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\vbc.exe
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\vbc.exe.config
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\vbc.rsp
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Antlr3.Runtime.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\CommonServiceLocator.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\EntityFramework.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\EntityFramework.SqlServer.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Eshop.ClassLibrary.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.Web.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Newtonsoft.Json.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Owin.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.Helpers.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.Mvc.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.Optimization.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.Razor.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.Abstractions.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.Configuration.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.Container.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.Interception.Configuration.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.Interception.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.Mvc5.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.RegistrationByConvention.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.ServiceLocation.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\WebGrease.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Eshop.ClassLibrary.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Eshop.ClassLibrary.dll.config
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\CommonServiceLocator.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\EntityFramework.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\EntityFramework.SqlServer.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.Helpers.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.Mvc.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.Optimization.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.Razor.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.Configuration.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.Container.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.Interception.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.Interception.Configuration.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Unity.ServiceLocation.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Antlr3.Runtime.pdb
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Newtonsoft.Json.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.Web.xml
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\obj\Debug\Eshop.Administration.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\obj\Debug\Eshop.Administration.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\obj\Debug\Eshop.Administration.csproj.CopyComplete
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\obj\Debug\Eshop.Administration.dll
+C:\Users\Chris\Desktop\Eshop - Presentation\Eshop.Administration\obj\Debug\Eshop.Administration.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\ApplicationInsights.config
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Eshop.Administration.dll.config
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Eshop.Administration.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Eshop.Administration.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Claims.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Threading.Thread.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\CommonServiceLocator.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Eshop.ClassLibrary.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Owin.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.Abstractions.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.Configuration.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.Container.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.Interception.Configuration.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.Interception.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.Mvc5.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.RegistrationByConvention.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.ServiceLocation.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\WebGrease.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Eshop.ClassLibrary.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Eshop.ClassLibrary.dll.config
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\CommonServiceLocator.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.Configuration.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.Container.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.Interception.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.Interception.Configuration.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.RegistrationByConvention.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Unity.ServiceLocation.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\obj\Debug\Eshop.Administration.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\obj\Debug\Eshop.Administration.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\obj\Debug\Eshop.Administration.csproj.CopyComplete
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\obj\Debug\Eshop.Administration.dll
+C:\Users\DELL\Downloads\Eshop - Presentation\Eshop.Administration\obj\Debug\Eshop.Administration.pdb
